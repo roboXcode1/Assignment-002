@@ -8,10 +8,10 @@
   font-family: "Quicksand", serif;
 }
 
-/* Shared Style */
+/* Shared Style  ,,,,ekhane right and left e margin thik kore hy*/
 header,
-.curriculum,
-.story-container , .foot {
+.curricu,
+.s-container , .foot {
   margin: 0px auto;
   max-width: 1280px;
 }
@@ -29,7 +29,7 @@ img {
 }
 
 .text {
-  color: rgb(17, 17, 17);
+  color: rgb(17, 19, 19);
   font-family: Quicksand;
   font-size: 20px;
   font-weight: 400;
@@ -47,7 +47,7 @@ img {
 }
 
 .logo h2 {
-  color: rgb(17, 17, 17);
+  color: rgb(19, 19, 19);
   font-family: Quicksand;
   font-size: 32px;
   font-weight: 700;
@@ -73,7 +73,7 @@ img {
 
 .btn {
   border-radius: 12px;
-  background: rgb(254, 163, 1);
+  background: rgb(254, 161, 1);
   color: rgb(255, 255, 255);
   font-family: Quicksand;
   font-size: 20px;
@@ -102,21 +102,21 @@ img {
 }
 
 .a a {
-  color: rgb(1, 172, 253);
+  color: rgb(1, 182, 253);
   font-family: Quicksand;
   font-size: 20px;
   font-weight: 500;
 }
 
 .faci a {
-  color: rgb(5, 212, 223);
+  color: rgb(5, 222, 223);
   font-family: Quicksand;
   font-size: 20px;
   font-weight: 500;
 }
 
 .adm a {
-  color: rgb(93, 88, 239);
+  color: rgb(93, 98, 249);
   font-family: Quicksand;
   font-size: 20px;
   font-weight: 500;
@@ -164,7 +164,7 @@ img {
 
 .enroll:hover {
   background-color: white;
-  color: black;
+  color: rgba(0, 0, 0, 0.301);
 }
 
 /* Standard Curriculum */
@@ -201,7 +201,7 @@ img {
 }
 
 .read {
-  color: rgb(100, 200, 255);
+  color: rgba(100, 201, 255, 0.904);
   font-weight: 700;
 }
 
@@ -247,7 +247,7 @@ img {
 .curricu h2 {
   text-align: center;
   margin-top: 80px;
-  color: rgb(0, 0, 0);
+  color: rgba(0, 0, 0, 0.653);
   font-family: Quicksand;
   font-size: 46px;
   font-weight: 700;
@@ -280,7 +280,7 @@ img {
 /* Our Stories */
 .story {
   background: url("../assets/bg.png"),
-    linear-gradient(0deg, rgba(254, 163, 1, 0.3), rgba(255, 255, 255, 0.3) 100%);
+    linear-gradient(0deg, rgba(254, 161, 1, 0.388), rgba(255, 255, 255, 0.342) 100%);
 }
 
 .s-container > h2 {
@@ -466,11 +466,11 @@ marquee{
   font-size: 24px;
   font-weight: 500;
   padding: 24px;
-  color: rgb(102, 102, 102);
+  color: rgb(59, 235, 39);
   
 }
 
 .view:hover{
   background-color: white;
-  color: black;
+  color: rgb(0, 0, 0);
 }
